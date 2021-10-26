@@ -322,7 +322,7 @@ class NswLL:
         except Exception as e:
             print(e)
 
-path = 'D:\\Python\\Demo\\afinity\\'
+path = '' #file Path
 
 files = os.listdir(path)
 nswll = NswLL()
