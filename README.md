@@ -27,4 +27,7 @@ pip install pdfplumber
 
 pip install PyMuPDF==1.18.19
 
+Run Program
+
+python nswll.py
 
