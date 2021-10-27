@@ -389,7 +389,9 @@ End of Main Class
 """
 
 """
-File Path 
+File Path
+sample path:  c:\\NswLL\\sample_files\\
+
 """
 path = ''  # file Path
 
